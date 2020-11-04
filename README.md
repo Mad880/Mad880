@@ -1,4 +1,4 @@
-### Owner and Developer of DayStride
+### Mad, a retard
 
 
 What kind of creature am i?
