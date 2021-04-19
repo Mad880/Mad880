@@ -1,15 +1,11 @@
-### Mad, a retard
+### Mad
 
+A Python Dev
 
-What kind of creature am i?
-
-I think i'm a human i like to play video games, code, hang out with friends.
-
-In the 14 years of my life i have wasted 20 of them doing useless shit.
-
-I'm trash at planning ahead, don't expect too much from me.
-
-I do what interests me the most, and i won't give up until it's how i want it to be.
+What I'm interested in:
+  - Python scripts
+  - D.py bots
+  - Minecraft plugins/mods/clients
 
 -------------------
 <a href="https://github.com/Mad880">
