@@ -3,7 +3,7 @@
 A Python Dev
 
 What I'm interested in:
-  - Python scripts
+  - Python scripts/applications
   - D.py bots
   - Minecraft plugins/mods/clients
 
